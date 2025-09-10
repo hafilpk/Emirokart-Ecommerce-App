@@ -18,7 +18,7 @@ export default function Register() {
           <Form.Control type="password" placeholder="Enter password" />
         </Form.Group>
         <Button variant="success" type="submit" className="w-100">
-          Sign Up
+          Register
         </Button>
       </Form>
     </Card>
